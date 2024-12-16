@@ -1,0 +1,15 @@
+.description-hover {
+    transition: color 0.3s;
+}
+
+.description-hover:hover {
+    color: blue;
+}
+
+.title-hover:hover {
+    color: green;
+}
+
+.suffix-hover:hover {
+    color: green;
+}

@@ -1,0 +1,38 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 512 512"
+    width="100"
+    height="100"
+>
+    <!-- Vòng tròn bên ngoài -->
+    <linearGradient
+        id="a"
+        x1="256"
+        x2="256"
+        y1="0"
+        y2="512"
+        gradientUnits="userSpaceOnUse"
+    >
+        <stop offset="0" stop-color="#f09433" />
+        <stop offset="0.25" stop-color="#e6683c" />
+        <stop offset="0.5" stop-color="#dc2743" />
+        <stop offset="0.75" stop-color="#cc2366" />
+        <stop offset="1" stop-color="#bc1888" />
+    </linearGradient>
+    <path
+        fill="url(#a)"
+        d="M256 0c141.4 0 256 114.6 256 256s-114.6 256-256 256S0 397.4 0 256 114.6 0 256 0z"
+    />
+    <!-- Biểu tượng máy ảnh -->
+    <path
+        fill="#fff"
+        d="M352 64H160c-53 0-96 43-96 96v192c0 53 43 96 96 96h192c53 0 96-43 96-96V160c0-53-43-96-96-96zM432 352c0 44.1-35.9 80-80 80H160c-44.1 0-80-35.9-80-80V160c0-44.1 35.9-80 80-80h192c44.1 0 80 35.9 80 80v192z"
+    />
+    <!-- Vòng tròn chính giữa -->
+    <path
+        fill="#fff"
+        d="M256 160c-53 0-96 43-96 96s43 96 96 96 96-43 96-96-43-96-96-96zm0 160c-35.3 0-64-28.7-64-64s28.7-64 64-64 64 28.7 64 64-28.7 64-64 64z"
+    />
+    <!-- Biểu tượng đèn flash -->
+    <circle cx="393.6" cy="118.4" r="17.6" fill="#fff" />
+</svg>

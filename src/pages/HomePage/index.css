@@ -1,0 +1,21 @@
+/* CSS for customizing Slick Slider arrows */
+.slick-prev,
+.slick-next {
+    color: #8c8585; /* Sets the color to black */
+    z-index: 1;
+    opacity: 1;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+    color: #bc2323; /* Keeps color black on hover */
+    opacity: 1;
+}
+
+/* Optional: Customize the arrow background */
+.slick-prev:before,
+.slick-next:before {
+    color: #8c8585; /* Arrow color */
+    font-size: 24px; /* Adjust size if needed */
+    opacity: 1;
+}

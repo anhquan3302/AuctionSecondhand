@@ -1,0 +1,49 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/BeVietnamPro-Regular.ttf");
+  font-family: "Be Vietnam Pro";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/Jost-Regular.ttf");
+  font-family: "Jost";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/BeVietnamPro-Medium.ttf");
+  font-family: "Be Vietnam Pro";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/InterBold.ttf");
+  font-family: "Inter";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/BeVietnamPro-Bold.ttf");
+  font-family: "Be Vietnam Pro";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/BeVietnamPro-SemiBold.ttf");
+  font-family: "Be Vietnam Pro";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/Jost-Medium.ttf");
+  font-family: "Jost";
+  font-weight: 500;
+}

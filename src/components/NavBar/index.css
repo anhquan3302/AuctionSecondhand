@@ -1,0 +1,22 @@
+/* Đổi màu chữ và nền khi hover */
+.custom-menu-item:hover {
+  background-color: #38a169 !important; /* Màu nền khi hover */
+  color: white !important; /* Màu chữ khi hover */
+  transition: all 0.2s ease; /* Thêm transition để mượt  #38a169  */
+}
+
+/* Áp dụng cho tiêu đề của SubMenu khi hover */
+.custom-submenu-title:hover {
+  color: white !important; /* Màu chữ khi hover vào Option1, Option2 */
+  background-color: #38a169 !important; /* Màu nền của SubMenu khi hover */
+}
+
+/*.custom-menu-item:hover {*/
+/*    color: #9e1c1c !important; !* Màu chữ khi hover *!*/
+/*    transition: color 0.2s ease; !* Thêm transition để mượt *!*/
+/*}*/
+
+/*!* Áp dụng cho tiêu đề của SubMenu khi hover *!*/
+/*.custom-submenu-title:hover {*/
+/*    color: #20264c !important; !* Màu chữ khi hover vào Option1, Option2 *!*/
+/*}*/

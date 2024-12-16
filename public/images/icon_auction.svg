@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect x="140" y="60" width="120" height="60" fill="#B0C4DE" />
+  <rect x="170" y="40" width="60" height="20" fill="#A9A9A9" />
+  <rect x="190" y="100" width="20" height="160" fill="#8B4513" />
+  <rect x="180" y="260" width="40" height="20" fill="#A9A9A9" />
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="36" fill="black" text-anchor="middle">Chánh Tổng</text>
+</svg>
